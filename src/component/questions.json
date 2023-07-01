@@ -1,0 +1,122 @@
+[
+  {
+    "question": "What is Golang?",
+    "optionA": "A programming language",
+    "optionB": "A database management system",
+    "optionC": "A network protocol",
+    "optionD": "An operating system",
+    "answer": "A programming language"
+  },
+  {
+    "question": "Who created Golang?",
+    "optionA": "Rob Pike",
+    "optionB": "Ken Thompson",
+    "optionC": "Robert Griesemer",
+    "optionD": "All of the above",
+    "answer": "All of the above"
+  },
+  {
+    "question": "What was the main motivation behind creating Golang?",
+    "optionA": "To improve scalability of software systems",
+    "optionB": "To enhance performance of web applications",
+    "optionC": "To simplify concurrent programming",
+    "optionD": "To create a new object-oriented language",
+    "answer": "To simplify concurrent programming"
+  },
+  {
+    "question": "Which of the following is a valid Golang data type?",
+    "optionA": "String",
+    "optionB": "Float",
+    "optionC": "Boolean",
+    "optionD": "All of the above",
+    "answer": "All of the above"
+  },
+  {
+    "question": "What is the extension used for Golang source code files?",
+    "optionA": ".go",
+    "optionB": ".golang",
+    "optionC": ".g",
+    "optionD": ".src",
+    "answer": ".go"
+  },
+  {
+    "question": "Which Golang package is used for handling HTTP requests?",
+    "optionA": "fmt",
+    "optionB": "net",
+    "optionC": "http",
+    "optionD": "time",
+    "answer": "net/http"
+  },
+  {
+    "question": "How do you declare a variable in Golang?",
+    "optionA": "var x int",
+    "optionB": "x := 10",
+    "optionC": "int x = 10",
+    "optionD": "let x = 10",
+    "answer": "var x int"
+  },
+  {
+    "question": "Which Golang keyword is used to define a function?",
+    "optionA": "func",
+    "optionB": "def",
+    "optionC": "function",
+    "optionD": "define",
+    "answer": "func"
+  },
+  {
+    "question": "What is the output of the following code?\n\n```go\npackage main\n\nimport \"fmt\"\n\nfunc main() {\n\tfmt.Println(\"Hello, World!\")\n}\n```",
+    "optionA": "Hello",
+    "optionB": "World",
+    "optionC": "Hello, World!",
+    "optionD": "No output",
+    "answer": "Hello, World!"
+  },
+  {
+    "question": "Which Golang package is used for unit testing?",
+    "optionA": "testing",
+    "optionB": "test",
+    "optionC": "unittest",
+    "optionD": "go-test",
+    "answer": "testing"
+  },
+  {
+    "question": "What is the correct way to handle errors in Golang?",
+    "optionA": "Use if-else statements",
+    "optionB": "Use try-catch blocks",
+    "optionC": "Use error codes",
+    "optionD": "Use error return values",
+    "answer": "Use error return values"
+  },
+  {
+    "question": "Which Golang keyword is used to exit from a loop?",
+    "optionA": "continue",
+    "optionB": "break",
+    "optionC": "exit",
+    "optionD": "return",
+    "answer": "break"
+  },
+  {
+    "question": "What is the purpose of the 'defer' keyword in Golang?",
+    "optionA": "To delay the execution of a function until the surrounding function returns",
+    "optionB": "To cancel the execution of a function",
+    "optionC": "To repeat the execution of a function",
+    "optionD": "To execute a function asynchronously",
+    "answer": "To delay the execution of a function until the surrounding function returns"
+  },
+  {
+    "question": "Which Golang data structure is used to store key-value pairs?",
+    "optionA": "Array",
+    "optionB": "Struct",
+    "optionC": "Map",
+    "optionD": "Slice",
+    "answer": "Map"
+  },
+  {
+    "question": "What is the correct way to import the 'fmt' package in Golang?",
+    "optionA": "import \"fmt\"",
+    "optionB": "import fmt",
+    "optionC": "fmt.import",
+    "optionD": "fmt.include",
+    "answer": "import \"fmt\""
+  }
+]
